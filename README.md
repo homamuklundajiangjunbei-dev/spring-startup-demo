@@ -8,7 +8,7 @@ A minimal Spring Boot web application generated with [Spring Initializr](https:/
 ./mvnw spring-boot:run
 ```
 
-The application starts an embedded web server on port 8080. Stop it with Ctrl+C.
+The application starts an embedded web server on port 8080. Stop it with Ctrl+C. Start of application will print Application Started.
 
 ## Verify the baseline
 
